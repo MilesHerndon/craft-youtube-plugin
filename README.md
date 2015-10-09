@@ -16,3 +16,7 @@ If your entry has a field with a Youtube URL or embed code, do the following to 
 {{ theFieldId|YoutubeFilter }}
 ```
 
+---
+Credit for the extraction function from [this Stack Exchange answer](http://stackoverflow.com/a/6556662 "Thanks to hakre")
+
+
